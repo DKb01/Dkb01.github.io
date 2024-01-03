@@ -22,9 +22,9 @@ title: Vedic Astrology
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to this blog. We are here to discuss the framework of Veic Astrology which is traditionally called Jyotisha.
-There are various ways to put things together for understanding the framework of Jyotisha, but most suitable one is
-Parashara''s way. He has divided the study of Jytishas into three main branches, namely, Hora, Ganita and Samhita.
-We will discuss this in detail in future.
+  There are various ways to put things together for understanding the framework of Jyotisha, but most suitable one is
+  Parashara''s way. He has divided the study of Jytishas into three main branches, namely, Hora, Ganita and Samhita.
+  We will discuss this in detail in future.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
